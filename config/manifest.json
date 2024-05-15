@@ -1,10 +1,10 @@
 {
-  "name": "Neon Frame App | Screenshot Maker App | Screenshot Editor App",
-  "short_name": "Neon Frame | Screenshot Maker | Screenshot Editor",
+  "name": "Wulf",
+  "short_name": "TODO",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "/neonframe.page/",
-  "description": "Make highlighted screenshots you're sharing to Twitter, Instagram, LinkedIn, etc. | Screenshot Maker | Screenshot Editor",
+  "start_url": "/",
+  "description": "Sustainable solutions, one tap away.",
   "scope": "/",
   "theme_color": "#FF191C1D",
   "background_color": "#FF191C1D"

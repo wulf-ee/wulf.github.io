@@ -3,26 +3,26 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Neon Frame | Screenshot Maker | Screenshot Editor | Android app
-email: support@mobile-dev.pro
-description: Make highlighted screenshots for Twitter, Instagram, LinkedIn, etc. | Screenshot Maker | Screenshot Editor
-baseurl: "/neonframe.page" # the subpath of your site, e.g. /blog
-url: "https://mobiledevpro.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: Wulf
+email: contact@wulf.ee
+description: TODO
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://wulf.ee" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
-twitter_username: mobiledev_pro
-github_username:  mobiledevpro
-author: Dmitri Chernysh
+# twitter_username: mobiledev_pro
+# github_username:  mobiledevpro
+author: Egon Illison
 logo: assets/images/large-logo.png
-twitter:
-  username: mobiledev_pro
-social:
-  name: mobiledevpro
-  links:
-    - https://twitter.com/mobiledev_pro
-    - https://www.linkedin.com/in/dmitriychernysh
-    - https://github.com/dmitriy-chernysh
+# twitter:
+#   username: mobiledev_pro
+# social:
+#   name: mobiledevpro
+#   links:
+#     - https://twitter.com/mobiledev_pro
+#     - https://www.linkedin.com/in/dmitriychernysh
+#     - https://github.com/dmitriy-chernysh
 
-languages: ["en"]
+languages: ["en",'et']
 ampdir: amp
 
 github: false
@@ -30,7 +30,7 @@ github: false
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
 #google: verification_code
-google_analytics: G-7J55TB6YYJ
+# google_analytics: G-7J55TB6YYJ
 #doorbell:
 #  id: doorbell_id
 #  appKey: doorbell_appKey
