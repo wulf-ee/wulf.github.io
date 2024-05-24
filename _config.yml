@@ -5,7 +5,7 @@
 
 title: Wulf
 email: contact@wulf.ee
-description: TODO
+description: Sustainable solutions, one tap away.
 baseurl: "/wulf.github.io" # the subpath of your site, e.g. /blog
 url: "https://wulf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
