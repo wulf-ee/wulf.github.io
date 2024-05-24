@@ -1,14 +1,14 @@
 app:
   screenshots: Screenshots
-  description: What's new
+  description: Description
 
   #featured: Featured in
 
 footer:
-  copyright: Made with ❤️ by <a href="https://www.crewnew.com" target="_blank">CrewNew</a>
+  copyright: Made with ❤️ in <a href="https://e-estonia.com" target="_blank">Estonia</a>
   links:
     - title: GitHub
-      url: https://github.com/crewnew
+      url: https://github.com/wulf-ee
       target: _blank
     - title: Privacy
       url: /privacy
