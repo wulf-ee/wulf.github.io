@@ -1,12 +1,17 @@
 name: Wulf
 description: Sustainable solutions, one tap away.
 full_description: '
-<b>Protect Nature with Ease</b><br>
+<b>Protect Nature with Ease</b>
+<br>
 <br> With Wulf, capturing and reporting litter in natural areas is effortless. Snap a photo, mark the location, and we will alert the local authorities to handle the cleanup. Your small actions contribute to a cleaner, greener world.
 <br>
-<b>Effortless Waste Disposal</b><br>
+<br>
+<b>Effortless Waste Disposal</b>
+<br>
 <br>Need to get rid of your own waste? Wulf connects you with the best and most affordable transport services. Simply find and book the right provider, making waste disposal quick and hassle-free.
-<br>Join Wulf today. Simplify waste management and make a difference.
+<br>
+<br>
+<b>Join Wulf today. Simplify waste management and make a difference.</b>
 '
 android: https://play.google.com/store/apps/details?id=ee.wulf.android&utm_source=landing
 iOS: false
