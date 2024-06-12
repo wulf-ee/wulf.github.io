@@ -27,6 +27,6 @@ module.exports = Merge(CommonConfig, {
       minimize: true,
       debug: false,
     }),
-    new ImageminPlugin({ test: /\.(jpe?g|png|gif|svg)$/i }),
+    new ImageminPlugin({ test: /\.(jpe?g|png|gif|svg|apk|ipa|aab)$/i }),
   ],
 });

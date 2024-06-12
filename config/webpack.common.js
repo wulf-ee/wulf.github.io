@@ -26,7 +26,7 @@ module.exports = {
     new MiniCssExtractPlugin(),
     new CopyWebpackPlugin({
       patterns:[
-        { from: path.resolve('_images'), to: 'images/', }
+        { from: path.resolve('_images'), to: 'images/', },
       ]
     }),
   ],
@@ -70,6 +70,13 @@ module.exports = {
           'file-loader',
         ],
       },
+      {
+        test: /\.(apk|ipa|aab)$/,
+        use: [
+          'file-loader',
+        ],
+      },
+      
     ],
   },
 };
