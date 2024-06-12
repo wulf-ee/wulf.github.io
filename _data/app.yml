@@ -13,14 +13,16 @@ full_description: '
 <br>
 <b>Join Wulf today. Simplify waste management and make a difference.</b>
 '
-android: https://play.google.com/store/apps/details?id=ee.wulf.android&utm_source=landing
+android: https://play.google.com/store/apps/details?id=ee.wulf.android
 iOS: false
 web: false
+apk: https://wulf.ee/apk/wulf.apk
 screenshots:
-  - 01-screenshot.png
-  - 02-screenshot.png
-  - 03-screenshot.png
-  - 04-screenshot.png
+  - 1.png
+  - 2.png
+  - 3.png
+  - 4.png
+  - 5.png
 producthunt: false
 #companies:
 #  - url: https://telegra.ph/Replace-this-link-07-23
